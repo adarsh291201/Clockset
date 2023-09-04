@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/iamakhileshmishra/ClockSet---Contest-Calender.git"
+    "url": "git+https://github.com/adarsh291201/Clockset.git"
   },
   "author": "Adarsh Raj ",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/iamakhileshmishra/ClockSet---Contest-Calender/issues"
+    "url": "https://github.com/adarsh291201/Clockset/issues"
   },
-  "homepage": "https://github.com/iamakhileshmishra/ClockSet---Contest-Calender#readme",
+  "homepage": "https://github.com/adarsh291201/Clockset#readme",
   "dependencies": {
     "moment": "^2.29.4"
   }
